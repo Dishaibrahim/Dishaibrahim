@@ -26,7 +26,4 @@ I focus on bridging the gap between complex financial data and actionable insigh
 
 
 
-### 📊 GitHub Stats
-![Disha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dishaibrahim&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dishaibrahim&layout=compact&theme=radical)
 
